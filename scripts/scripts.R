@@ -46,3 +46,10 @@ is.na(rooms)
 
 rooms[!is.na(rooms)]
 
+
+
+
+
+
+
+
